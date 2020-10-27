@@ -1,0 +1,2 @@
+E:\777\HuaqibeiService\obj\Debug\HuaqibeiService.csprojAssemblyReference.cache
+E:\777\HuaqibeiService\obj\Debug\HuaqibeiService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  huaqibei:
+    image: ${DOCKER_REGISTRY-}huaqibei
+    build:
+      context: .
+      dockerfile: Dockerfile

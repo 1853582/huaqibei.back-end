@@ -1,0 +1,6 @@
+E:\777\HuaqibeiDTO\bin\Debug\HuaqibeiDTO.dll
+E:\777\HuaqibeiDTO\bin\Debug\HuaqibeiDTO.pdb
+E:\777\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.csprojAssemblyReference.cache
+E:\777\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.csproj.CoreCompileInputs.cache
+E:\777\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.dll
+E:\777\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.pdb
