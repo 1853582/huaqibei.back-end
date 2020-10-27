@@ -1,0 +1,6 @@
+F:\项目文件收集\花旗杯数据库项目\HospitalWeb\HospitalDTO\bin\Debug\HospitalDTO.dll
+F:\项目文件收集\花旗杯数据库项目\HospitalWeb\HospitalDTO\bin\Debug\HospitalDTO.pdb
+F:\项目文件收集\花旗杯数据库项目\HospitalWeb\HospitalDTO\obj\Debug\HuaqibeiDTO.csprojAssemblyReference.cache
+F:\项目文件收集\花旗杯数据库项目\HospitalWeb\HospitalDTO\obj\Debug\HuaqibeiDTO.csproj.CoreCompileInputs.cache
+F:\项目文件收集\花旗杯数据库项目\HospitalWeb\HospitalDTO\obj\Debug\HospitalDTO.dll
+F:\项目文件收集\花旗杯数据库项目\HospitalWeb\HospitalDTO\obj\Debug\HospitalDTO.pdb
