@@ -25,6 +25,8 @@ namespace hospital1
                 );
         }
 
-        public DbSet<User> Accounts { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Company> Companies { get; set; }
+        public DbSet<Asset_mortgage> Asset_Mortgages { get; set; }
     }
 }

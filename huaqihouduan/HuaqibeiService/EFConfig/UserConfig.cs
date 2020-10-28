@@ -1,26 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity.ModelConfiguration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.Entity;
-using System.Reflection;
-using HuaqibeiService;
 
-namespace HuaqibeiService
+namespace HuaqibeiService.EFConfig
 {
-    public class MyContext : DbContext
+    public class UserConfig : EntityTypeConfiguration<User>
     {
-        public MyContext() : base("name=connStr")
+        public UserConfig()
         {
-
+            ToTable("user");
+            Property(e => e.UserId).IsRequired();
+            Property(e => e.Username).HasMaxLength(20).IsRequired();
+            Property(e => e.Password).HasMaxLength(20).IsRequired();
+            Property(e => e.UserType).IsRequired();
         }
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-            modelBuilder.Configurations.AddFromAssembly(
-                Assembly.GetExecutingAssembly());
-        }
-        public DbSet<User> users { get; set; }
     }
 }

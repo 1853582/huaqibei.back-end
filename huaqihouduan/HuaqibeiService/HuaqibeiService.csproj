@@ -54,7 +54,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asset_mortgage.cs" />
+    <Compile Include="Company.cs" />
+    <Compile Include="EFConfig\Asset_mortgageConfig.cs" />
+    <Compile Include="EFConfig\CompanyConfig.cs" />
+    <Compile Include="EFConfig\Guarantee_recordConfig.cs" />
+    <Compile Include="EFConfig\Legal_personConfig.cs" />
+    <Compile Include="EFConfig\Loan_messageConfig.cs" />
+    <Compile Include="EFConfig\Loan_recordConfig.cs" />
     <Compile Include="EFConfig\UserConfig.cs" />
+    <Compile Include="Guarantee_record.cs" />
+    <Compile Include="Legal_person.cs" />
+    <Compile Include="Loan_message.cs" />
+    <Compile Include="Loan_record.cs" />
     <Compile Include="MyContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />

@@ -4,3 +4,9 @@ E:\777\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.csprojAssemblyReference.cache
 E:\777\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.csproj.CoreCompileInputs.cache
 E:\777\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.dll
 E:\777\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.pdb
+D:\huaqi\ASP.NET\huaqihouduan\HuaqibeiDTO\bin\Debug\HuaqibeiDTO.dll
+D:\huaqi\ASP.NET\huaqihouduan\HuaqibeiDTO\bin\Debug\HuaqibeiDTO.pdb
+D:\huaqi\ASP.NET\huaqihouduan\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.csproj.CoreCompileInputs.cache
+D:\huaqi\ASP.NET\huaqihouduan\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.dll
+D:\huaqi\ASP.NET\huaqihouduan\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.pdb
+D:\huaqi\ASP.NET\huaqihouduan\HuaqibeiDTO\obj\Debug\HuaqibeiDTO.csprojAssemblyReference.cache

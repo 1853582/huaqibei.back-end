@@ -9,7 +9,7 @@ using HuaqibeiDTO;
 
 namespace HuaqibeiService
 {
-    public class userService
+    public class UserService
     {
 
     }
